@@ -1,0 +1,16 @@
+# Environment variables
+.env
+
+# Binary & Build output
+bin/
+dist/
+telescope-proxy
+
+# Coverage & Test artifacts
+coverage.out
+*.test
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
